@@ -1,4 +1,4 @@
-#This is a fork that enables this script to be used on ARM machines.
+# This is a fork that enables this script to be used on ARM machines.
 I just replaced the download link for the x86 release of docker-composer with the download link of the arm release.
 
 # reality-ezpz
